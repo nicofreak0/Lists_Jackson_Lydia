@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists_Jackson_Lydia", "Lists_Jackson_Lydia.csproj", "{C87A99DA-7CAD-4C74-9616-CF17FE3EC51E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C87A99DA-7CAD-4C74-9616-CF17FE3EC51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87A99DA-7CAD-4C74-9616-CF17FE3EC51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87A99DA-7CAD-4C74-9616-CF17FE3EC51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87A99DA-7CAD-4C74-9616-CF17FE3EC51E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB98DB2E-E522-47F5-91CF-D2ABFC0D8A35}
+	EndGlobalSection
+EndGlobal
